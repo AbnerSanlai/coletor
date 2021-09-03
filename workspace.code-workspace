@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "gs_coletor",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "..\\gsgerencial\\assets"
+		}
+	],
+	"settings": {}
+}
